@@ -1,6 +1,6 @@
 # Security Advisories & Coordinated Vulnerability Disclosures (CVD)
 
-**Researcher**: VOID ([@vazzzy071-crypto](https://github.com/vazzzy071-crypto))  
+**Researcher / Discoverer**: Miraziz Kuchkarov (VOID) ([@vazzzy071-crypto](https://github.com/vazzzy071-crypto))  
 **Email**: `vazzzy.071@gmail.com`  
 **Focus**: Application Security, Web Architecture, Cloud & API Penetration Testing
 
