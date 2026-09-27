@@ -3,7 +3,7 @@
 - **Advisory ID**: SEC-ADV-2026-001
 - **VulnCheck CVD Submission ID**: `cea3fc14-c26c-45ba-8924-618403809b59`
 - **Published**: September 27, 2026
-- **Researcher**: VOID (vazzzy.071@gmail.com / GitHub: [@vazzzy071-crypto](https://github.com/vazzzy071-crypto))
+- **Researcher / Discoverer**: Miraziz Kuchkarov (VOID) (vazzzy.071@gmail.com / GitHub: [@vazzzy071-crypto](https://github.com/vazzzy071-crypto))
 - **Status**: Public Reference for CVE Assignment (Upstream Archived)
 
 ---
@@ -168,8 +168,9 @@ Since `Just-Moh-it/Pckd` is archived, users running existing deployments must ap
 
 ---
 
-## 8. Coordinated Disclosure Timeline
+## 8. Coordinated Disclosure Timeline & Credit
 
+- **Discoverer / Credit**: **Miraziz Kuchkarov (VOID)** (vazzzy.071@gmail.com / GitHub: [@vazzzy071-crypto](https://github.com/vazzzy071-crypto))
 - **2026-08-26**: Vulnerability identified and verified on local deployment.
 - **2026-09-17 15:06 UTC**: Coordinated Vulnerability Disclosure (CVD) report submitted to VulnCheck CNA (Submission ID: `cea3fc14-c26c-45ba-8924-618403809b59`).
 - **2026-09-25 01:20 UTC**: VulnCheck confirmed finding is a valid security primitive eligible for CVE assignment, requesting a public reference due to the repository being archived.
