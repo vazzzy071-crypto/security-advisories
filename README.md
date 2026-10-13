@@ -12,7 +12,8 @@ This repository contains official security advisories, vulnerability disclosures
 
 | Advisory ID | Product / Target | Vulnerability Type | Severity | CVD Reference | Status | Public Advisory Link |
 |---|---|---|---|---|---|---|
-| **SEC-ADV-2026-001** | `Just-Moh-it/Pckd` | Authentication Bypass via Hardcoded JWT Secret (`CWE-798` / `CWE-287`) | **8.1 High** | `cea3fc14-c26c-45ba-8924-618403809b59` | **Published Reference** (Pending CVE Record) | [View Advisory](advisories/2026-09-Just-Moh-it-Pckd-Auth-Bypass.md) |
+| **SEC-ADV-2026-001** | `Just-Moh-it/Pckd` | Authentication Bypass via Hardcoded JWT Secret (`CWE-798` / `CWE-287`) | **8.1 High** | `cea3fc14-c26c-45ba-8924-618403809b59` | **Published Reference** | [View Advisory](advisories/2026-09-Just-Moh-it-Pckd-Auth-Bypass.md) |
+| **SEC-ADV-2026-002** | `marcopiovanello/yt-dlp-web-ui` | Command Argument Injection (`CWE-88`/`CWE-918`) & Remote Denial of Service (`CWE-476`/`CWE-248`) | **7.5 High** | `5e19f1fb-77da-4263-bd28-ccbe975b72c7` | **Published Reference** (2 CVE Records Eligible) | [View Advisory](advisories/2026-10-marcopiovanello-yt-dlp-web-ui-rpc-arg-injection.md) |
 
 ---
 
